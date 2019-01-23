@@ -1,6 +1,11 @@
 C:\Git\git-vs-sln-sample\DataAccess\SampleSln.DataAccess\bin\Debug\SampleSln.DataAccess.dll
 C:\Git\git-vs-sln-sample\DataAccess\SampleSln.DataAccess\bin\Debug\SampleSln.DataAccess.pdb
-C:\Git\git-vs-sln-sample\DataAccess\SampleSln.DataAccess\obj\Debug\SampleSln.DataAccess.csprojAssemblyReference.cache
 C:\Git\git-vs-sln-sample\DataAccess\SampleSln.DataAccess\obj\Debug\SampleSln.DataAccess.csproj.CoreCompileInputs.cache
 C:\Git\git-vs-sln-sample\DataAccess\SampleSln.DataAccess\obj\Debug\SampleSln.DataAccess.dll
 C:\Git\git-vs-sln-sample\DataAccess\SampleSln.DataAccess\obj\Debug\SampleSln.DataAccess.pdb
+C:\Git\git-vs-sln-sample\samplesln-dataaccess\SampleSln.DataAccess\bin\Debug\SampleSln.DataAccess.dll
+C:\Git\git-vs-sln-sample\samplesln-dataaccess\SampleSln.DataAccess\bin\Debug\SampleSln.DataAccess.pdb
+C:\Git\git-vs-sln-sample\samplesln-dataaccess\SampleSln.DataAccess\obj\Debug\SampleSln.DataAccess.csprojAssemblyReference.cache
+C:\Git\git-vs-sln-sample\samplesln-dataaccess\SampleSln.DataAccess\obj\Debug\SampleSln.DataAccess.csproj.CoreCompileInputs.cache
+C:\Git\git-vs-sln-sample\samplesln-dataaccess\SampleSln.DataAccess\obj\Debug\SampleSln.DataAccess.dll
+C:\Git\git-vs-sln-sample\samplesln-dataaccess\SampleSln.DataAccess\obj\Debug\SampleSln.DataAccess.pdb
